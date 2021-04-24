@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 
 -->
 
-![Siro's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiro1920&show_icons=true&theme=buefy&custom_title=Siro'sGithubstats)
+![Siro's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiro1920&show_icons=true&theme=buefy&custom_title=Siro's Github stats)
 
