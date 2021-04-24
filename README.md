@@ -7,6 +7,7 @@
 Here are some ideas to get you started:
 
 [![Rainbow cat's github stats](https://github-readme-stats.vercel.app/api?username=shiro1920&show_icons=true)](https://github.com/shiro1920/github-readme-stats)
+![Siro's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiro1920&show_icons=true&theme=buefy)
 
 - 🔭 I’m currently working on Nanjing University
 - 🌱 I’m currently learning astronomy
