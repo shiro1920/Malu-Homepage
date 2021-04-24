@@ -7,8 +7,8 @@
 
 
 - =￣ω￣=  I’m currently working on [Nanjing University](https://astronomy.nju.edu.cn/)
-- (￣▽￣)- I’m currently learning astronomy， here is our [group](https://github.com/njuastro)&[wiki](http://splendifito.nju.edu.cn:8080/dokuwiki/doku.php?id=start)
-- (⊙ˍ⊙) - I’m looking for help with python, IDL, linux, HTML and so on 
+- (￣▽￣) I’m currently learning astronomy， here is our [group](https://github.com/njuastro)&[wiki](http://splendifito.nju.edu.cn:8080/dokuwiki/doku.php?id=start)
+- (⊙ˍ⊙)  I’m looking for help with python, IDL, linux, HTML and so on 
 
 
 
