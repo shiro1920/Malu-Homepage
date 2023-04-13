@@ -1,5 +1,4 @@
-### Hello, This is Siro! （＾∀＾●）ﾉｼ
-　     ども、しろです❕ 
+### Hello, This is Malu! （＾∀＾●）ﾉｼ
 
 <!--
 **shiro1920/shiro1920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
