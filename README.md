@@ -12,7 +12,7 @@
 
 
 
-<img align="right" width="280" height="280" src="https://github.com/shiro1920/PhotoGallary/blob/main/preview.gif?raw=true">
+<img align="right" width="260" height="260" src="https://github.com/shiro1920/PhotoGallary/blob/main/preview.gif?raw=true">
 
 # Hello!  This is Malu!
 
@@ -24,7 +24,6 @@
 [![Blog](https://img.shields.io/badge/blog-NotionNext-blue)](https://www.malupro.top)
 [![Mail](https://img.shields.io/badge/mail-zyzhengnju@gmail.com-red)](mailto:zyzhengnju@gmail.com)
 
----
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shiro1920&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Malu's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiro1920&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
