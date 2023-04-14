@@ -27,6 +27,10 @@
 [![Blog](https://img.shields.io/badge/blog-NotionNext-blue)](https://www.malupro.top)
 [![Mail](https://img.shields.io/badge/mail-zyzhengnju@gmail.com-red)](mailto:zyzhengnju@gmail.com)
 
+---
+
+<img align="right" width="200" height="200" src="https://github.com/shiro1920/PhotoGallary/blob/main/preview.gif?raw=true">
+
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shiro1920" />
 </a>
@@ -36,6 +40,3 @@
 </a>
 -->
 
-<img align="right" width="200" height="200" src="https://github.com/shiro1920/PhotoGallary/blob/main/preview.gif?raw=true">
-
----
