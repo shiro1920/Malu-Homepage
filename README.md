@@ -32,11 +32,11 @@
 <img align="left" width="300" height="300" src="https://github.com/shiro1920/PhotoGallary/blob/main/preview.gif?raw=true">
 
 <a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=shiro1920" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shiro1920" />
 </a>
 <!--&nbsp;
 <a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiro1920&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiro1920&layout=compact" />
 </a>
 -->
 
