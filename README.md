@@ -10,12 +10,17 @@
   [![Mango's github stats](https://github-readme-stats.vercel.app/api?username=shiro1920)](https://github.com/mango-lzp/github-readme-stats)
 -->
 
-<img align="right" width="160" height="160" src="https://github.com/shiro1920/PhotoGallary/blob/main/preview.gif?raw=true">
+<img align="right" width="200" height="200" src="https://github.com/shiro1920/PhotoGallary/blob/main/preview.gif?raw=true">
 
 # Hello!  This is Malu!
 
 - I’m currently working on [Nanjing University](https://astronomy.nju.edu.cn/)
 - ’m studying astronomy， here is our [group](https://github.com/njuastro)
+
+
+
+
+
 
 ## Reach me 
 [![Github](https://img.shields.io/github/followers/shiro1920?label=Github&style=social)](https://github.com/shiro1920)
