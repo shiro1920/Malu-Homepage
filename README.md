@@ -1,4 +1,4 @@
-### Hello, This is Malu! （＾∀＾●）ﾉｼ
+### Hello!  This is Malu! 
 
 <!--
 **shiro1920/shiro1920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,5 +9,6 @@
 - ’m studying astronomy， here is our [group](https://github.com/njuastro)
 
 
-![Siro's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiro1920&show_icons=true&theme=buefy)
+![Malu's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiro1920&show_icons=true&theme=buefy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiro1920&layout=compact)](https://github.com/shiro1920/github-readme-stats)
 
