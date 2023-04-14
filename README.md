@@ -10,5 +10,5 @@
 
 
 ![Malu's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiro1920&show_icons=true&theme=buefy)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiro1920&layout=compact)](https://github.com/shiro1920/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiro1920&layout=default)](https://github.com/anuraghazra/github-readme-stats)
 
