@@ -35,8 +35,6 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=shiro1920" />
 </a>
 
---
-
 <a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiro1920&layout=compact" />
 </a>
