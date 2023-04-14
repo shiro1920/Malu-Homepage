@@ -10,7 +10,7 @@
   [![Mango's github stats](https://github-readme-stats.vercel.app/api?username=shiro1920)](https://github.com/mango-lzp/github-readme-stats)
 -->
 
-<img align="right" width="200" height="200" src="https://github.com/shiro1920/PhotoGallary/blob/main/preview.gif?raw=true">
+
 
 # Hello!  This is Malu!
 
@@ -35,5 +35,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiro1920&layout=compact" />
 </a>
 -->
+
+<img align="right" width="200" height="200" src="https://github.com/shiro1920/PhotoGallary/blob/main/preview.gif?raw=true">
 
 ---
