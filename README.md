@@ -12,7 +12,7 @@
 
 
 
-<img align="right" width="260" height="260" src="https://github.com/shiro1920/PhotoGallary/blob/main/preview.gif?raw=true">
+<img align="right" width="210" height="210" src="https://github.com/shiro1920/PhotoGallary/blob/main/preview.gif?raw=true">
 
 # Hello!  This is Malu!
 
