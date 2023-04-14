@@ -14,13 +14,13 @@
 
 <img align="right" width="210" height="210" src="https://github.com/shiro1920/PhotoGallary/blob/main/preview.gif?raw=true">
 
-# Hello!  This is Malu!
+### Hello!  This is Malu!
 
 - I’m currently working on [Nanjing University](https://astronomy.nju.edu.cn/)
 - ’m studying astronomy， here is our [group](https://github.com/njuastro)
 
 
-## Reach me 
+### Reach me 
 [![Blog](https://img.shields.io/badge/blog-NotionNext-blue)](https://www.malupro.top)
 [![Mail](https://img.shields.io/badge/mail-zyzhengnju@gmail.com-red)](mailto:zyzhengnju@gmail.com)
 
