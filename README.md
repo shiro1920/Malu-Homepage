@@ -19,7 +19,6 @@
 
 
 ## Reach me 
-[![Github](https://img.shields.io/github/followers/shiro1920?label=Github&style=social)](https://github.com/shiro1920)
 [![Blog](https://img.shields.io/badge/blog-NotionNext-blue)](https://www.malupro.top)
 [![Mail](https://img.shields.io/badge/mail-zyzhengnju@gmail.com-red)](mailto:zyzhengnju@gmail.com)
 
