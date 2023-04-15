@@ -17,7 +17,7 @@
 # Hello! This is Malu!
 
 - I’m currently working on [Nanjing University](https://astronomy.nju.edu.cn/)
-- ’m studying astronomy， here is our [group](https://github.com/njuastro)
+- I’m studying astronomy， here is our [group](https://github.com/njuastro)
 
 ## Reach me 
 
